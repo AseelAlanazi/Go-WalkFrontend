@@ -16,18 +16,18 @@ The GO WALK frontend is a responsive React application providing user-friendly i
  5. React Toastify
 
 ### Backend Repository
-https://git.generalassemb.ly/aseelma12/backend
+https://github.com/AseelAlanazi/Go-WalkBackend
 
 ## Installation Instructions
 
 To run the project, you need to clone both the backend and frontend repositories. Below are the steps for setting up the frontend:
 
 1. Clone the repo:
--  `git clone https://git.generalassemb.ly/aseelma12/frontend.git`
+-  `git clone https://github.com/AseelAlanazi/Go-WalkFrontend.git`
 
 
 2.  To the project directory
-- `cd frontend`
+- `cd Go-WalkFrontend`
 
 3. Install dependencies
 - `npm install`
